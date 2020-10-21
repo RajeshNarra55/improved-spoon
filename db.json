@@ -1,8 +1,8 @@
 {
   "validUsers": [
     {
-    mobileNo: "8790352325",
-    password:"RCB"
+    "mobileNo": "8790352325",
+    "password":"RCB"
     }
   ],
   "profile": {
