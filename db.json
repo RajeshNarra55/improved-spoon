@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "validUsers": [
     {
-      "id": 1,
-      "title": "hell1o"
+    mobileNo: "8790352325",
+    password:"RCB"
     }
   ],
   "profile": {
-    "name": "typi11code"
+    "name": "typi11vacode"
   }
 }
