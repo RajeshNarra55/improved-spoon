@@ -9,10 +9,7 @@
     "name": "typi11vacode"
   },
   "trainDetails":{
-    "per":"4",
-    "page":"1",
-    "total_pages":2,
-"trainData":
+   
                [{"trainNo":12756,"trainName":"Chennai SF Express","from":"Hyderabad","to":"Chennai","avilable":236},{"trainNo":12766,"trainName":"Charminar SF Express","from":"Hyderabad","to":"Chennai","avilable":289},{"trainNo":12899,"trainName":"Simhapuri Express","from":"Hyderabad","to":"Gudur","avilable":236},{"trainNo":12346,"trainName":"Padmavati SF Express","from":"Hyderabad","to":"Chennai","avilable":236}
             ,
                 {"trainNo":127561,"trainName":"Chennai SF Express","from":"Hyderabad","to":"Chennai","avilable":236},{"trainNo":112766,"trainName":"Charminar SF Express","from":"Hyderabad","to":"Chennai","avilable":289},{"trainNo":128399,"trainName":"Simhapuri Express","from":"Hyderabad","to":"Gudur","avilable":236},{"trainNo":123246,"trainName":"Padmavati SF Express","from":"Hyderabad","to":"Chennai","avilable":236}
